@@ -1,0 +1,143 @@
+Indice de funciones en Prácticas.
+
+
+           Bucles
+
+
+bucles_1.py: Imprime una palabra ingresada el numero de veces en un rango.
+for i 
+
+
+bucles_2.py: Imprime, el número de veces, que se ingresa por teclado, una palabra.
+for i 
+
+
+bucles_3.py: Imprime los Impares, en un renglon,  hasta un número ingresado, 
+for i 
+
+
+bucles_4.py: Imprime en cuenta regresiva, en un renglon,  desde n hasta el cero ingresado, 
+for i 
+ 
+
+bucles_5.py: Calcula un interés compuesto.
+for i in range
+
+
+bucles_6.py: Imprime un triangulo usando algo raro en un print.
+
+
+bucles_7.py: Imprime las tablas de multiplicar en forma de columnas.
+for i 
+    for j 
+
+
+bucles_8.py: Imprime un triangulo usando los números impares de un rango ingresado.
+for i 
+    for j 
+
+
+bucles_9.py: Compara dos strings, para comprobar su igualdad.
+while 
+
+
+bucles_10.py: Verifica la primalidad de un número 
+for i
+%
+break
+
+
+bucles_11.py: Imprime un string en forma de lista vertical.
+for letra in (len(word…
+end=” ”
+
+
+bucles_12.py: Contabiliza la letra seleccionada en una frase.
+for i 
+contador 
+
+
+
+          Listas
+
+
+
+lista_2.py: Imprime una lista,
+for i 
+
+
+lista_3.py: Usa dos listas y dos for para imprimir el índice 0 con 0, 1 con 1.
+
+
+lista_4.py: Agrega una cantidad establecida de datos, por input a una lista, 
+la ordena de mayor a menor y la imprime.
+
+
+lista_5.py: Agrega una cantidad establecida de datos, por input a una lista, 
+la ordena de mayor a menor y la imprime de menor a mayor.
+
+
+lista_6.py: Elimina datos de una lista. 
+
+
+lista_7.py: Elimina multipos de una lista, basándose en los indices.
+% en un ciclo for
+
+
+lista_8.py: Comprueba si una palabra es un palindromo.
+.repalce
+
+
+lista_9.py: Cuenta las veces que aparece una letra un una frase.
+for i 
+    for j
+contador.
+
+
+lista_10.py: Ingresa datos por teclado hasta que el usuario diga, 
+los ordena de mayor a menor e imprime el mayor y el menor de los datos. 
+while true:
+break 
+\n\t.
+
+
+listas_pizza.py: Agregas datos por teclado a una lista hasta que el usuario detenga la acción.
+while True:
+
+
+
+            Diccionarios.
+
+
+
+diccionarios_3.py : Busca si la información existe en un diccionario, si si existe, 
+llama al valor del dato ingresado.
+.get
+
+
+diccionarios_4.py : Divide información, de acuerdo a símbolos, 
+introducida por teclado e imprime un dato del diccionario dependiendo de la 
+información ingresada.
+.split
+
+
+diccionarios_5.py : Modifica el valor de los elementos de un diccionario, 
+suma los valores de todos los elementos.
+
+
+diccionarios_6.py : Agrega llaves y valores ingresados por teclado a un diccionario, 
+repitiendo un ciclo hasta que es suspendido por el usuario, 
+imprime el diccionario.
+
+
+diccionarios_7.py : Agrega llaves y valores ingresados por teclado a un diccionario, 
+repitiendo un ciclo hasta que es suspendido por el usuario. 
+imprime en forma de lista el ITEM, suma el total de los valores agregados al diccionario.
+
+
+diccionarios_8.py : Agrega llaves y valores ingresados por teclado, separados por un símbolo, 
+ a un diccionario.
+
+
+diccionarios_9.py : Respite un ciclo que se detiene por el usuario, agrega elementos a un diccionario, 
+llama a impresión a elementos del diccionario.
